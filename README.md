@@ -8,9 +8,10 @@
 
 
 
-vless://3e6fdff2-84af-499e-bcf7-0a9009a72d88@node-fr-1.axmavpn.xyz:443?security=reality&encryption=none&pbk=IhfJBfeNoDKmS7L8nhncOu-uCn46Tg-vavdC1efkGC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=f1a2b3c4#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%E2%80%94%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%E2%9A%A1
-vless://3e6fdff2-84af-499e-bcf7-0a9009a72d88@node-fr-1.axmavpn.xyz:8443?security=reality&encryption=none&pbk=IhfJBfeNoDKmS7L8nhncOu-uCn46Tg-vavdC1efkGC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ajax.aspnetcdn.com&sid=22334455#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%E2%80%94%20%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%F0%9F%9B%A1
-vless://3e6fdff2-84af-499e-bcf7-0a9009a72d88@node-fr-1.axmavpn.xyz:2053?mode=stream-up&path=%2Fapi%2Fstat&security=reality&encryption=none&pbk=IhfJBfeNoDKmS7L8nhncOu-uCn46Tg-vavdC1efkGC0&fp=chrome&type=xhttp&sni=cdn.jsdelivr.net&sid=0badc0de#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%E2%80%94%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%20%F0%9F%94%84
+vless://f5901d2f-304b-43e7-ae4c-1b197f4c2847@46.8.113.80:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#%F0%9F%87%A8%F0%9F%87%BF%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%E2%80%94%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%E2%9A%A1
+vless://f5901d2f-304b-43e7-ae4c-1b197f4c2847@92.119.166.76:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=d82fb387#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%E2%80%94%20%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%F0%9F%9B%A1
+vless://f5901d2f-304b-43e7-ae4c-1b197f4c2847@107.181.134.44:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#%F0%9F%87%AC%F0%9F%87%A7%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%E2%80%94%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%20%F0%9F%94%84
+
 
 
 
