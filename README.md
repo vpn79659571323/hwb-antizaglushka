@@ -8,7 +8,8 @@
 
 
 
-vless://74b16e41-e304-49c1-a784-919645c93231@de-2-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&host=de-2-direct.djarbnet.ru&type=ws&sni=de-2-direct.djarbnet.ru#%F0%9F%87%A9%F0%9F%87%AA%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%E2%9A%A1
+vless://74b16e41-e304-49c1-a784-919645c93231@84.32.209.94:443?security=reality&encryption=none&echfq=none&pbk=xI4ByyrKnvI7bBGwY2ndAe4oPWs_X_6mgXqcT6zn7QA&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=perplexity.ai&sid=534673474586#%F0%9F%87%B1%F0%9F%87%B9+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%E2%9A%A1
+
 vless://74b16e41-e304-49c1-a784-919645c93231@84.32.96.205:443?mode=gun&security=reality&encryption=none&pbk=MoAnTg4OwbprB8tOxSbZEjbqdUhue4WlA1vQfcA7Sz8&fp=chrome&type=grpc&sni=gspe1-ssl.ls.apple.com&sid=0b1a7f7592c5b87c#%F0%9F%87%B3%F0%9F%87%B1%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%F0%9F%92%A8
 vless://74b16e41-e304-49c1-a784-919645c93231@212.46.33.4:443?mode=gun&security=reality&encryption=none&pbk=slxFJ2Mv5d8ce1tAbFgwsifvBcK8cbFo3KsYMmM5J1Q&fp=chrome&type=grpc&sni=hcaptcha.com#%F0%9F%87%B3%F0%9F%87%B1%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%F0%9F%9A%80
 vless://74b16e41-e304-49c1-a784-919645c93231@66.201.4.248:443?security=reality&encryption=none&pbk=L6EU_GCGptVyjp1Q60ZMmRAZVCCx6EVbW-gyv1Zk3zc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=usw.org&sid=fad0a8e7#%F0%9F%87%AB%F0%9F%87%B7%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9%20%F0%9F%94%84
