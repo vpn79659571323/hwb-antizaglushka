@@ -2,7 +2,7 @@
 #profile-title: Антизаглушка 📡
 #profile-update-interval: 1
 #subscription-update-interval: 1
-#announce: Если VPN не работает нажмите 🔄 , после ⏱️ и выберите сервер с наименьшим показателем ms!
+#announce:Нажми 🔄,затем ⏱️ и выберите сервер с наименьшим показателем пинга (мс) Для корректной работы VPN обновите happ
 #support-url: https://wa.me/79659571323
 #profile-web-page-url: https://wa.me/79659571323
 
