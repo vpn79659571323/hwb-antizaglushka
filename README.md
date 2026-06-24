@@ -6,15 +6,12 @@
 #support-url: https://wa.me/79659571323
 #profile-web-page-url: https://wa.me/79659571323
 
-vless://861fd825-3828-4bc6-a48e-8295f357b6c7@158.160.191.91:443?security=reality&encryption=none&echfq=none&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv8.yunus.guru&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1++%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0+%F0%9F%9B%A0%EF%B8%8F?serverDescription=0KLQtdGB0YIg0LrQvtC90YTQuNCz0YPRgNCw0YbQuNC4
 
 
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv16.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=WeeUf6jO26pDN580rmz6kmZ5Y-S-eF76iWOMYK1HvDg&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv16.yunus.guru&sid=e6f15c51340a6691#%F0%9F%87%AA%F0%9F%87%BA+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%E2%9A%A1?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv17.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=_5KQWficxpTFTYpHG-PpKpN99XL8H0vwOyg2XBMhVn8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv17.yunus.guru&sid=ef3d5a5ce1127092#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
-vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv18.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=jLa4bn_ZuTamBSUdxQCJJI1seX1TvPQDKB5u7rzbcG4&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv18.yunus.guru&sid=ce92dfd666224477#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
-vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv19.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=Lt6X7qMkqASgQr2ErbaUbowSn2ylRuON8BsOjmZv6Qw&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv19.yunus.guru&sid=b197d7f830dc8062#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
-vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv21.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=Qsx1iAU8A1meJ2Pz8QbEcX1iGckyw4f6-mxZ3ZyJ8HI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv21.yunus.guru&sid=e2b15b73af31a6a4#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
-vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv20.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=GF61aR_em1Xb3bNpwaO86PMEsAi4tuNfinnTDnrC4CE&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv20.yunus.guru&sid=664d93f83ca49830#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
+
+
 
 
 
