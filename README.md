@@ -8,8 +8,8 @@
 
 
 
-vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv16.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=WeeUf6jO26pDN580rmz6kmZ5Y-S-eF76iWOMYK1HvDg&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv16.yunus.guru&sid=e6f15c51340a6691#%F0%9F%87%AA%F0%9F%87%BA+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%E2%9A%A1?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
-vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv17.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=_5KQWficxpTFTYpHG-PpKpN99XL8H0vwOyg2XBMhVn8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv17.yunus.guru&sid=ef3d5a5ce1127092#%F0%9F%87%AA%F0%9F%87%BA+%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2+%F0%9F%94%97?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
+vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv16.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=WeeUf6jO26pDN580rmz6kmZ5Y-S-eF76iWOMYK1HvDg&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv16.yunus.guru&sid=e6f15c51340a6691#%F0%9F%87%B3%F0%9F%87%B1+%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9+%F0%9F%9A%80?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
+vless://861fd825-3828-4bc6-a48e-8295f357b6c7@rezerv17.yunus.guru:443?security=reality&encryption=none&echfq=none&pbk=_5KQWficxpTFTYpHG-PpKpN99XL8H0vwOyg2XBMhVn8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rezerv17.yunus.guru&sid=ef3d5a5ce1127092#%F0%9F%87%A9%F0%9F%87%AA+%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9+%E2%9A%A1?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg=
 
 
 
