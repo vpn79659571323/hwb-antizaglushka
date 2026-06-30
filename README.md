@@ -82,11 +82,6 @@ vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MzcubWlycmEubm93IiwiYWlkIjoiMCIsImFs
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MzcubWlycmEubm93IiwiYWlkIjoiMCIsImFsbG93aW5zZWN1cmUiOiIwIiwiYWxwbiI6ImgyIiwiZnAiOiJmaXJlZm94IiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTQzNy5taXJyYS5ub3ciLCJpZCI6IjFkNTFjN2NiLTlkYTMtNGY4Yy1iNmQwLTNhN2EzMjQ5YmQxYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e38J+HuiDQkNC90YLQuNC30LDQs9C70YPRiNC60LAgNTAiLCJzY3kiOiJhdXRvIiwic2VydmVyRGVzY3JpcHRpb24iOiIrNzk2NTk1NzEzMjMiLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMS00MzcubWlycmEubm93IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 
-
-
-
-
-vless://e93998e0-dd6a-4234-be21-362bcc66f926@158.160.207.174:443?security=reality&encryption=none&pbk=zp845D9IsTnJZP4kzpgDC6eDatCsJdVtTQGQXDqtJzY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net#🇸🇪 Антизаглушка 50?serverDescription=Kzc5NjU5NTcxMzIz
 vless://e93998e0-dd6a-4234-be21-362bcc66f926@176.108.244.111:443?security=reality&encryption=none&pbk=SZc_DMRImbDL7e4YnLokaY36g8lMqtUwjCBn9dYHFCM&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru#🇩🇪 Антизаглушка 51?serverDescription=Kzc5NjU5NTcxMzIz
 vless://e93998e0-dd6a-4234-be21-362bcc66f926@158.160.207.174:443?security=reality&encryption=none&pbk=zp845D9IsTnJZP4kzpgDC6eDatCsJdVtTQGQXDqtJzY&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net#🇰🇿 Антизаглушка 52?serverDescription=Kzc5NjU5NTcxMzIz
 vless://e93998e0-dd6a-4234-be21-362bcc66f926@176.108.244.111:443?security=reality&encryption=none&pbk=SZc_DMRImbDL7e4YnLokaY36g8lMqtUwjCBn9dYHFCM&headerType=none&fp=random&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru#🇸🇪 Антизаглушка 53?serverDescription=Kzc5NjU5NTcxMzIz
