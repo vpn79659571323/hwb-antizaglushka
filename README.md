@@ -5,6 +5,7 @@
 #announce:Нажмите 🔄,затем ⏱️ и выберите сервер с наименьшим показателем пинга (мс) Для корректной работы впн обнови happ
 #support-url: https://wa.me/79659571323
 #profile-web-page-url: https://wa.me/79659571323
+#sort-order: ping
 #subscription-pin: 1
 #subscriptions-collapse: 0
 #hide-settings: 1
