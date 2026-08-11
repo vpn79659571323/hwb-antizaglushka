@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=31; download=0; total=0; expire=999999999999999
+#subscription-userinfo: upload=34; download=0; total=0; expire=999999999999999
 #profile-title: Антизаглушка
 #profile-update-interval: 1
 #subscription-update-interval: 2
