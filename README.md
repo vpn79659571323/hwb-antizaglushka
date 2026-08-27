@@ -31,13 +31,7 @@ vless://301d201a-cea0-4626-b593-c75d0699e89c@pop.vkaltakte.casa:443?encryption=n
 vless://301d201a-cea0-4626-b593-c75d0699e89c@95.163.232.49:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE-%D0%97%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%7C5?serverDescription=Kzc5NjU5NTcxMzIz
 
 
-vless://1cb128f8-9c10-49d4-986c-40009e5d9dc9@116.206.95.157:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dzen.ru&fp=firefox&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0?serverDescription=Kzc5NjU5NTcxMzIz
-vless://1cb128f8-9c10-49d4-986c-40009e5d9dc9@77.105.168.100:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dzen.ru&fp=firefox&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?serverDescription=Kzc5NjU5NTcxMzIz
-vless://1cb128f8-9c10-49d4-986c-40009e5d9dc9@86.110.38.110:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pypi.org&fp=firefox&pbk=Qzes_3vP7iiVpB1nCupbNitBdWIJxR079FAjc_fadC8&sid=57cc65bfd5ef7465&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F?serverDescription=Kzc5NjU5NTcxMzIz
-vless://1cb128f8-9c10-49d4-986c-40009e5d9dc9@116.206.95.243:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dzen.ru&fp=firefox&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B?serverDescription=Kzc5NjU5NTcxMzIz
-vless://1cb128f8-9c10-49d4-986c-40009e5d9dc9@84.252.101.134:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dzen.ru&fp=firefox&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F?serverDescription=Kzc5NjU5NTcxMzIz
-vless://1cb128f8-9c10-49d4-986c-40009e5d9dc9@116.206.95.242:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dzen.ru&fp=firefox&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F?serverDescription=Kzc5NjU5NTcxMzIz
-vless://1cb128f8-9c10-49d4-986c-40009e5d9dc9@77.105.168.100:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=dzen.ru&fp=firefox&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F?serverDescription=Kzc5NjU5NTcxMzIz
+
 
 
 
