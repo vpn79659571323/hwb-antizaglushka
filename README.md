@@ -49,7 +49,6 @@ vless://563e7e43-c863-485a-8e05-53bdc3f3e41a@berry.kliningi.shop:443?encryption=
 
 
 vless://fe64e0af-e39b-4335-874e-5bb6993e465a@95.133.242.211:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=filesconvert.org&fp=chrome&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sid=f3c5f072749dcc9c&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%F0%9F%9A%80
-vless://fe64e0af-e39b-4335-874e-5bb6993e465a@67.159.17.39:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=filesconvert.org&fp=chrome&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sid=10debbdf94767541&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9%20%F0%9F%92%8A
 vless://fe64e0af-e39b-4335-874e-5bb6993e465a@95.133.242.211:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=filesconvert.org&fp=chrome&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sid=f3c5f072749dcc9c&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9%20%F0%9F%94%97
 
 vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@plmnko.mervi.icu:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=plmnko.mervi.icu&fp=qq&pbk=POxErqfAhbx93pLFoyoxCQwq16521UuBXHIrjrDg4A8&sid=b43f7f17b3f36291&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20%7CYouTube%20%D0%91%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%7C%20%231%20%F0%9F%94%B4
