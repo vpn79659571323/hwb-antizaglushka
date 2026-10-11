@@ -21,8 +21,17 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 
 
+
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@78.159.240.159:10654?encryption=none&security=reality&sni=dailycanvas.sysopnova.art&fp=chrome&pbk=lGKKIZsN9yBMxzZm8yl7nzNwJII18c_wLd_AbzzvRD8&sid=53361376&type=xhttp&mode=packet-up&path=%2Fxhttp_client_upload#🇨🇿Турбо-Заглушка ⚡ 1
+vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ru-1-2.unturned-rust-dead.lol:443?encryption=none&security=reality&sni=ru-1-2.unturned-rust-dead.lol&fp=firefox&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&mode=gun&authority=&serviceName=ru-api#🇺🇸Турбо-Заглушка ⚡ 2
+vless://12e95f93-443c-0002-9a2a-5b318b9124cf@46.182.24.15:443?flow=xtls-rprx-vision&encryption=none&security=reality&fp=firefox&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA&type=tcp&headerType=none#🇷🇺Турбо-Заглушка ⚡ 3
+vless://3fcec4e4-a674-44d2-8cae-c253cec43b9c@81.94.148.104:2096?encryption=none&security=reality&sni=id.vk.com&fp=random&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=vless-grpc-reality#🇩🇪Турбо-Заглушка ⚡ 4
+
+
+
+
 vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@194.226.112.118.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=194.226.112.118.sslip.io&fp=firefox&pbk=L2UzY5xsyfkl4MB575jk12QFQZYmaIW0BqRuxDTteis&sid=a8ae8934d909b3b0&type=tcp&headerType=none#🇳🇱 Основной 🚀 
-vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@83.166.244.231.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=83.166.244.231.sslip.io&fp=firefox&pbk=b_Tz7poeEoOMrhzLSgWzHlT5drx9TWHVuy1DpRhAKTc&sid=317af011f4efab41&type=tcp&headerType=none#🇳🇱 Запасной ⚡
+vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@83.166.244.231.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=83.166.244.231.sslip.io&fp=firefox&pbk=b_Tz7poeEoOMrhzLSgWzHlT5drx9TWHVuy1DpRhAKTc&sid=317af011f4efab41&type=tcp&headerType=none#🇳🇱 Запасной 🔄
 vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@92.242.61.99.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=92.242.61.99.sslip.io&fp=firefox&pbk=Lrda7_Ew0YS-Ac27x3IfKJfCymW2TDWCj_2Kg5BtemQ&sid=a120332ce29c71c0&type=tcp&headerType=none#🇳🇱 Резерв 🔗 
 vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@185.211.101.222.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=185.211.101.222.sslip.io&fp=firefox&pbk=Cg2YWmZl8054Ou5T0DxFdJQNbfXSM2Z_3k4TRX262nw&sid=f475cceed22901a0&type=tcp&headerType=none#🇳🇱 Резерв 🔗 
 vless://ec34d1c0-20f0-443c-8655-0f2df588f89e@2.27.44.91.sslip.io:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=2.27.44.91.sslip.io&fp=firefox&pbk=nKC4RnJXQdvGNts2DF9Yr5p8ja0jHWYxvM6T-sI-sSA&sid=f5ef4f4d4cba0a86&type=tcp&headerType=none#🇳🇱 Резерв 🔗 
