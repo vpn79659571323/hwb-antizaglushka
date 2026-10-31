@@ -23,6 +23,8 @@ vless://f6fe2c6d-c37e-4ff5-b305-83c5dc1ac7c7@ru24.oshost.network:443?flow=xtls-r
 vless://2a134719-4b9a-4a7a-b02c-8c44db134aa6@api.ge3.hubfit.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api.ge3.hubfit.org&fp=qq&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&sid=81ea&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
 vless://2a134719-4b9a-4a7a-b02c-8c44db134aa6@api.bg1.hubfit.org:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api.bg1.hubfit.org&fp=qq&pbk=xgjh4INLejIsR8DCnlOOKV9nK6fKIg1TtB5hhYfahhs&sid=81ea&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
 
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?type=xhttp&security=reality&path=/entry-xh&mode=auto&sni=www.kinopoisk.ru&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998#🇩🇪Германия-
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@lectures.blog-forme.ru:443?type=xhttp&security=reality&path=/v2/sync/af2c0c&mode=auto&sni=lectures.blog-forme.ru&fp=edge&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed#🇳🇱Нидерланды 2
 
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.173:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sundaylanzgem.site&fp=firefox&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&type=tcp&headerType=none#🇳🇱 Быстрый 1
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.147:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=gemsubbgem.world&fp=firefox&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&type=tcp&headerType=none#🇦🇪 Быстрый 2
