@@ -27,11 +27,11 @@ vless://3a08f246-48ef-403d-973e-3a590eb63a8f@185.141.227.207:10452?encryption=no
 
 
 
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 1
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 2
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 3
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 4
-vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 5
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 1 🚀 
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 2 🚀 
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 3 🚀 
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 4 🚀 
+vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrento-new.failspace.top:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=torrento-new.failspace.top&alpn=h2&fp=firefox&type=tcp&headerType=none#🇷🇴 Основные 5 🚀 
 
 vless://c2521099-35e6-4165-b459-823f9b364443@nl2.the-tech.studio:443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=netherlands.the-tech.studio&sid=bc24914f1d0cb2d7#🇳🇱 Faster vpn ⚡ 1
 vless://c2521099-35e6-4165-b459-823f9b364443@188.120.226.125:17443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=netherlands.the-tech.studio&sid=bc24914f1d0cb2d7#🇳🇱 Faster vpn ⚡ 2
